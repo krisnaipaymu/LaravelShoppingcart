@@ -1,5 +1,5 @@
 {
-    "name": "bumbummen99/shoppingcart",
+    "name": "krisnaipaymu/shoppingcart",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
@@ -13,7 +13,13 @@
             "name": "Patrick Henninger",
             "email": "privat@skyraptor.eu",
             "homepage": "https://skyraptor.eu/"
+        },
+        {
+            "name": "Krisna",
+            "email": "krisna@ipaymu.com",
+            "homepage": "https://ipaymu.com/"
         }
+        
     ],
     "require": {
         "illuminate/support": "5.4.*||5.5.*||5.6.*||5.7.*||5.8.*||^6.0",
