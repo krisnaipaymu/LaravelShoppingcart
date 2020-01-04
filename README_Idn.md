@@ -11,11 +11,11 @@ Ini adalah percabangan dari [Crisane's LaravelShoppingcart](https://github.com/C
 
 ## Instalasi
 
-Install paket(https://packagist.org/packages/bumbummen99/shoppingcart) menggunakan [Composer](http://getcomposer.org/). 
+Install paket(https://packagist.org/packages/krisnaipaymu/shoppingcart) menggunakan [Composer](http://getcomposer.org/). 
 
 Jalankan Composer dengan menggunakan perintah berikut:
 
-    composer require bumbummen99/shoppingcart
+    composer require krisnaipaymu/shoppingcart
 
 Sekarang Anda siap untuk mulai menggunakan shoppingcart di aplikasi Anda.
 
